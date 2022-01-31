@@ -1,3 +1,28 @@
-/com/
-/default/
-/main/
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+libs
+
+# Files from Forge MDK
+forge*changelog.txt
+forge*.zip
+forge-1.12.2-14.23.5.2854-mdk.zip
