@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "immersiveelectrocution",
+  "name": "Immersive Electrocution",
+  "description": "Prevents IE electrocution when not on the ground.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["QueerCoded"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
